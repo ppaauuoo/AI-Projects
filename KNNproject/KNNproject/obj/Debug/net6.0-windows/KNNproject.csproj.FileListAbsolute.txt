@@ -1,0 +1,17 @@
+C:\Users\opo25\source\repos\KNNproject\KNNproject\bin\Debug\net6.0-windows\KNNproject.exe
+C:\Users\opo25\source\repos\KNNproject\KNNproject\bin\Debug\net6.0-windows\KNNproject.deps.json
+C:\Users\opo25\source\repos\KNNproject\KNNproject\bin\Debug\net6.0-windows\KNNproject.runtimeconfig.json
+C:\Users\opo25\source\repos\KNNproject\KNNproject\bin\Debug\net6.0-windows\KNNproject.dll
+C:\Users\opo25\source\repos\KNNproject\KNNproject\bin\Debug\net6.0-windows\KNNproject.pdb
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.csproj.AssemblyReference.cache
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.Form1.resources
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.csproj.GenerateResource.cache
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.AssemblyInfoInputs.cache
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.AssemblyInfo.cs
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.csproj.CoreCompileInputs.cache
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.dll
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\refint\KNNproject.dll
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.pdb
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\KNNproject.genruntimeconfig.cache
+C:\Users\opo25\source\repos\KNNproject\KNNproject\obj\Debug\net6.0-windows\ref\KNNproject.dll

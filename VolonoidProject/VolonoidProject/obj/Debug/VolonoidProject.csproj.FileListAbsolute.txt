@@ -1,0 +1,12 @@
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.csproj.AssemblyReference.cache
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.Form1.resources
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.Properties.Resources.resources
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.csproj.GenerateResource.cache
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.csproj.CoreCompileInputs.cache
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\bin\Debug\VolonoidProject.exe.config
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\bin\Debug\VolonoidProject.exe
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\bin\Debug\VolonoidProject.pdb
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.exe
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.pdb
+C:\Users\opo25\source\repos\VolonoidProject\VolonoidProject\obj\Debug\VolonoidProject.Form2.resources

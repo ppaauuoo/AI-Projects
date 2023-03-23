@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolonoidProject", "VolonoidProject\VolonoidProject.csproj", "{0443DE52-1F36-4497-BA0C-5B26E38A3868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0443DE52-1F36-4497-BA0C-5B26E38A3868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0443DE52-1F36-4497-BA0C-5B26E38A3868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0443DE52-1F36-4497-BA0C-5B26E38A3868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0443DE52-1F36-4497-BA0C-5B26E38A3868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D74DD6B-176D-4710-95B8-E0F3484B359B}
+	EndGlobalSection
+EndGlobal

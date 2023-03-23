@@ -1,0 +1,17 @@
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\bin\Debug\net6.0-windows\PerceptronProject.exe
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\bin\Debug\net6.0-windows\PerceptronProject.deps.json
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\bin\Debug\net6.0-windows\PerceptronProject.runtimeconfig.json
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\bin\Debug\net6.0-windows\PerceptronProject.dll
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\bin\Debug\net6.0-windows\PerceptronProject.pdb
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.csproj.AssemblyReference.cache
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.csproj.GenerateResource.cache
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.AssemblyInfoInputs.cache
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.AssemblyInfo.cs
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.csproj.CoreCompileInputs.cache
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.dll
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\refint\PerceptronProject.dll
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.pdb
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.genruntimeconfig.cache
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\ref\PerceptronProject.dll
+C:\Users\opo25\source\repos\PerceptronProject\PerceptronProject\obj\Debug\net6.0-windows\PerceptronProject.Form2.resources
